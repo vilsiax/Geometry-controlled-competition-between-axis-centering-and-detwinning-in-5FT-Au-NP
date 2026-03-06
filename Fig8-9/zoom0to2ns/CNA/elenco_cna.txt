@@ -1,0 +1,128 @@
+54
+Br	14   444   444   444   444   444   444   666   666   666   666   666   666   666   666  inner_bcc
+Cd      14   433   433   433   433   433   433   555   555   555   555   555   555   666   666	disclination_polyIh
+Po      13   444   444   444   444   444   544   544   544   544   666   666   666   666        bcc_subsurface_100
+Cd      13   433   433   433   433   433   433   555   555   555   555   555   555   666	disclination_polyIh_end
+Co	12   421   421   421   421   421   421   421   421   421   421   421   421		inner_fcc
+Zn	12   421   421   421   421   421   421   422   422   422   422   422   422		inner_hcp
+O 	12   555   555   555   555   555   555   555   555   555   555   555   555		inner_central_ih
+Cu	12   422   422   422   422   422   422   422   422   422   422   555   555		inner_5-axis
+Hg      12   422   422   422   422   422   422   433   433   544   544   555   555		subsusrface_Ih_chiral_type_1
+Ag      12   421   421   421   421   422   422   422   422   433   433   544   544		subsusrface_Ih_chiral_type_2
+Pt      12   421   421   422   422   422   422   433   433   544   544   555   555		subsusrface_Ih_chiral_type_3
+In      11   311   311   311   311   421   421   421   421   421   421   421			subsurface_110_& stepB_111_fcc
+Md      11   311   311   311   311   421   421   421   422   422   422   422			stepB_111_hcp
+Se	11   300   300   300   300   300   422   422   422   422   422   555			missing_5-fold_vertex_central_atom
+S	11   433   433   433   433   433   555   555   555   555   555   555			missing_5-fold_vertex_am_central_atom
+At      10   211   311   311   311   311   421   421   421   421   421                          stepA_111_fcc
+Al      10   211   311   311   311   311   421   421   421   422   422		                stepA_111_hcp
+Fe      10   322   322   433   433   433   433   444   444   666   666				terrace_110_bcc
+Cs	10   300   300   311   311   311   311   421   421   422   422				reentrance_middle_dh
+Mn      10   311   311   311   311   422   422   422   422   433   433				edge_fcc_sharp_between_hcp_islands
+K	10   311   311   311   311   433   433   433   433   544   544				edge_111-111_chiral_ih
+Ra	 9   311   311   311   311   311   311   421   421   421				terrace_111_fcc_&_0001_hcp
+Tm       9   211   311   311   322   322   421   421   422   422				terrace_hcp_10m11
+Lr       9   211   211   211   211   444   544   544   544   544                                terrace_100_bcc
+Am	 9   311   311   311   311   322   421   433   433   544				edge_111-111_chiral_ih
+Np	 9   311   311   322   322   433   433   433   544   555				edge 111-111_chiral_ih
+Tl       9   322   322   322   433   433   433   555   555   555				polyIh_around_vertex
+Ba	 8   211   211   211   211   421   421   421   421					terrace_100_fcc
+Dy	 8   200   200   211   311   311   421   422   422					terrace_hcp_10m11_&_edge_anti-Mackay
+Th	 8   311   311   311   311   322   322   422   422					edge_111-111_twin
+Gd	 8   200   200   322   322   322   422   422   555					edge_anti-Mackay_close_to_vertex
+Eu	 8   311   311   311   311   322   322   422   422					edge_111-111_chiral_close_to_vertex
+Ge	 8   322   322   322   322   433   433   444   666                                      edge_110-110_bcc
+Sn	 8   211   211   211   433   433   444   544   544					edge_110-100_bcc
+Ga       8   322   322   322   322   433   433   555   555					polyIh_side
+Ni	 7   200   200   311   311   311   311   421 					        edge_111-111_row_110_fcc_&_0001_10m11_hcp
+Sr	 7   211   211   211   311   311   421   421						edge_111-100_fcc_&_0001_10m11_hcp
+Cl       7   200   211   211   311   322   421   422						edge_10m11_10m11_hcp
+F        7   200   211   211   311   322   421   422						edge_10m11_10m11_hcp
+Sm	 7   200   200   300   311   311   322   422						missing_5-fold_vertex_surrounding_atoms
+Nd	 7   200   200   211   211   422   422   433						missing_5-fold_vertex_am_surrounding_atoms
+K 	 7   200   200   300   311   311   322   422						vertex_111-111_reentrance_dh
+Rb       7   322   322   322   322   322   322   666						vertex_110-110_bcc_wide
+Cs	 7   211   211   322   433   433   444   544						vertex_110-100_bcc
+Be	 6   211   211   311   311   311   311							edge_111-111_sharp_fcc
+Li	 6   100   100   211   211   422   422							edge_100-100_twin
+Mt 	 6   200   211   211   311   311   421							vertex_111-100_fcc_&_0001-10m11_hcp
+Rf	 6   322   322   322   322   322   555							vertex_111-111_5-fold_ih_dh
+Mt	 5   322   322   322   322   444							vertex_110-110_bcc_sharp
+Mt 	 5   100   211   211   322   422							vertex_111-100_twin_dh
+Mt 	 5   200   200   211   311   311							vertex_111_111_fcc_sharp-wide
+Mt  	 4   200   200   200   200								vertex_111-111_fcc_4-fold
+Mt 	 4   211   211   322   322								vertex_111-111_perimeter_dh
+Mt	 3   211   211   211									vertex_111-111_fcc_3-fold
+
+
+
+Tetrahedron and Truncated Tetrahedron
+12   421   421   421   421   421   421   421   421   421   421   421   421		inner (fcc)
+ 9   311   311   311   311   311   311   421   421   421				terrace (111)
+ 7   200   200   311   311   311   311   421 						edge (111)/(111) fcc wide
+ 6   211   211   311   311   311   311							edge (111)/(111) fcc sharp
+ 5   200   200   211   311   311							vertex (111)/(111) fcc sharp-wide
+ 3   211   211   211									vertex (111)/(111) fcc 3-fold
+
+Octahedron and Truncated Octahedron
+12   421   421   421   421   421   421   421   421   421   421   421   421		inner (fcc)
+ 9   311   311   311   311   311   311   421   421   421				terrace (111)
+ 8   211   211   211   211   421   421   421   421					terrace (100)
+ 7   200   200   311   311   311   311   421 						edge (111)/(111) fcc wide
+ 7   211   211   211   311   311   421   421						edge (111)/(100)
+ 6   200   211   211   311   311   421							vertex (111)/(100) 
+ 4   200   200   200   200								vertex (111)/(111) fcc 4-fold
+
+
+Mackay Icosahedron
+12   555   555   555   555   555   555   555   555   555   555   555   555		inner central
+12   422   422   422   422   422   422   422   422   422   422   555   555		inner 5-axis
+12   421   421   421   421   421   421   422   422   422   422   422   422		inner twin plane (hcp)
+12   421   421   421   421   421   421   421   421   421   421   421   421		inner (fcc)
+ 9   311   311   311   311   311   311   421   421   421				terrace (111)
+ 8   311   311   311   311   322   322   422   422					edge (111)/(111) twin
+ 6   322   322   322   322   322   555							vertex (111)/(111) 5-fold
+11   300   300   300   300   300   422   422   422   422   422   555			missing 5-fold vertex, central atom
+ 7   200   200   300   311   311   322   422						missing 5-fold vertex, surrounding atoms
+
+anti-Mackay Icosahedron
+12   555   555   555   555   555   555   555   555   555   555   555   555		inner central
+12   422   422   422   422   422   422   422   422   422   422   555   555		inner 5-axis
+12   421   421   421   421   421   421   422   422   422   422   422   422		inner twin plane (hcp)
+12   421   421   421   421   421   421   422   422   422   422   422   422              subsurface terrace
+12   422   422   422   422   422   422   422   422   422   422   555   555		subsurface edge
+ 9   311   311   311   311   311   311   421   421   421				terrace (111)
+ 8   200   200   211   311   311   421   422   422					edge anti-Mackay, central
+ 8   200   200   322   322   322   422   422   555					edge anti-Mackay, close to vertex
+ 6   322   322   322   322   322   555							vertex (111)/(111) 5-fold
+11   433   433   433   433   433   555   555   555   555   555   555			missing 5-fold vertex am, central atom
+ 7   200   200   211   211   422   422   433						missing 5-fold vertex am, surrounding atoms
+
+chiral Icosahedron
+10   311   311   311   311   433   433   433   433   544   544				edge (111)/(111) chiral
+ 9   311   311   311   311   322   421   433   433   544				edge (111)/(111) chiral
+ 9   311   311   322   322   433   433   433   544   555				edge (111)/(111) chiral
+ 8   311   311   311   311   322   322   422   422					edge (111)/(111) chiral close to vertex
+
+
+Decahedron
+12   422   422   422   422   422   422   422   422   422   422   555   555		inner 5-axis
+12   421   421   421   421   421   421   422   422   422   422   422   422		inner twin plane (hcp)
+12   421   421   421   421   421   421   421   421   421   421   421   421		inner (fcc)
+10   300   300   311   311   311   311   421   421   422   422				reentrance middle
+ 9   311   311   311   311   311   311   421   421   421				terrace (111)
+ 8   211   211   211   211   421   421   421   421					terrace (100)
+ 8   311   311   311   311   322   322   422   422					edge (111)/(111) twin
+ 7   211   211   211   311   311   421   421						edge (111)/(100)
+ 7   200   200   311   311   311   311   421						edge (111)/(111) fcc wide
+ 6   100   100   211   211   422   422							edge (100)/(100) twin
+ 6   211   211   311   311   311   311							edge (111)/(111) dh perimeter
+ 7   200   200   300   311   311   322   422						vertex (111)/(111) reentrance
+ 6   200   211   211   311   311   421 							vertex (111)/(100)
+ 6   322   322   322   322   322   555							vertex (111)/(111) 5-fold
+ 5   100   211   211   322   422							vertex (111)/(100) twin
+ 4   211   211   322   322								vertex (111)/(111) dh perimeter
+11   300   300   300   300   300   422   422   422   422   422   555			missing 5-fold vertex, central atom
+ 7   200   200   300   311   311   322   422						missing 5-fold vertex, surrounding atoms
+
+
