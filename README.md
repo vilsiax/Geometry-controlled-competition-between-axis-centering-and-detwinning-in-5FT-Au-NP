@@ -35,6 +35,6 @@ Contains high-resolution trajectory data (e.g., 100 frames/ns) to capture rapid 
 - `photo_intervals.in`: Specifies the starting time, ending time, and photo rate.
 
 #### Further Analysis
-- **Pressure**: For each frame, a file `p_*` contains columns: `n_frame`, `element`, `pressure`, `stress_x`, `stress_y`, `stress_z` (as defined in Eq. 3 and 2 of the manuscript).
+- **Pressure**: For each frame, a file `p_*` contains columns: `n_at`, `element`, `pressure`, `stress_x`, `stress_y`, `stress_z` (as defined in Eq. 3 and 2 of the manuscript).
 - **Mean Pressure**: `mean_press.out` reports the average absolute pressure of each frame.
 - **Neighbors**: The last column of `nn_count.out` indicates the average number of near neighbors.
