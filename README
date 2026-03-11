@@ -1,10 +1,7 @@
 # Geometry-controlled competition between axis centering and detwinning in fivefold-twinned gold nanoparticles
 
-This directory contains molecular dynamics (MD) simulation trajectories and analysis data supporting the findings in the paper "Geometry-controlled competition between axis centering and detwinning in fivefold-twinned gold nanoparticles".
+This directory contains molecular dynamics (MD) simulation trajectories and analysis data supporting the findings in the article "Geometry-controlled competition between axis centering and detwinning in fivefold-twinned gold nanoparticles".
 ## Directory Structure
-### `global_minima/`
-Contains the most energetically favourable structures identified for each size investigated in the paper (one decahedron, FCC and single twin per size). 
-
 ### `starting_structures/`
 Contains the `.xyz` files of the starting structures for all analyzed simulations.
 **Naming convention:** `auA_cutB_concaveCL.xyz`
@@ -38,6 +35,6 @@ Contains high-resolution trajectory data (e.g., 100 frames/ns) to capture rapid 
 - `photo_intervals.in`: Specifies the starting time, ending time, and photo rate.
 
 #### Further Analysis
-- **Pressure**: For each frame, a file `p_*` contains columns: `n_at`, `element`, `pressure`, `stress_x`, `stress_y`, `stress_z` (as defined in Eq. 3 and 2 of the manuscript).
+- **Pressure**: For each frame, a file `p_*` contains columns: `n_frame`, `element`, `pressure`, `stress_x`, `stress_y`, `stress_z` (as defined in Eq. 3 and 2 of the manuscript).
 - **Mean Pressure**: `mean_press.out` reports the average absolute pressure of each frame.
 - **Neighbors**: The last column of `nn_count.out` indicates the average number of near neighbors.
